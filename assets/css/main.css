@@ -1,0 +1,219 @@
+.navbar-brand{
+    position: relative;
+    left: 200px;
+}
+.section-one{
+    width: 100%;
+    height: 1000px; 
+    background-image: url('https://bootstrapmade.com/demo/templates/Day/assets/img/hero-bg.jpg'); 
+}
+.section-one .o{
+    padding-left: 500px;
+    padding-top: 600px;
+}
+.section-one .o h1{
+    color: white;
+}
+.section-one .o p{
+    color: white;
+}
+.section-two{
+    width: 100%;
+    height: 500px;
+}
+.section-two .box{
+    display: flex;
+}
+.section-two .box-1{
+    width: 50%;
+    height: 400px;
+}
+.section-two .box-1 .l{
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.section-two .box-2{
+    width: 50%;
+    height: 400px;
+}
+.section-two .box-2 img{
+    height: 400px;
+}
+.section-three{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.section-three .box1{
+    width: calc(100%/3);
+}
+.section-three .box2{
+    width: calc(100%/3);
+}
+.section-three .box3{
+    width: calc(100%/3);
+}
+.section-three .box1 .e{
+    padding-left: 200px;
+}
+.section-three .box2 .w{
+    padding-left: 100px;
+}
+.section-three h3{
+    color: brown;
+}
+.section-three .card:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-foor{
+    width: 100%;
+    height: 200px;
+    background-color: grey;
+}
+.section-foor .a{
+    padding-left: 350px;
+    padding-top: 50px;
+}
+.section-five{
+    width: 100%;
+    height: 700px;
+}
+.section-five .d{
+    padding-left: 40%;
+    padding-top: 50px;
+    padding-bottom: 50PX;
+}
+.section-five .d h2{
+    padding-left: 150px;
+}
+.section-five .container .box1{
+    display: flex;
+    padding-bottom: 50px;
+}
+.section-five .container .box2{
+    display: flex;
+}
+.section-five .container .box1 .q{
+    padding-right: 100px;
+}
+.section-five .container .box1 .w{
+    padding-right: 100px;
+}
+.section-five .container .box2 .r{
+    padding-right: 100px;
+}
+.section-five .container .box2 .t{
+    padding-right: 100px;
+}
+.section-five .container{
+    padding-left: 150px;
+}
+.section-five h3{
+    color: brown;
+}
+.section-five .container .box1 .card:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-five .container .box1 .card:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-five .container .box1 .card:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-five .container .box2 .card:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-five .container .box2 .card:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-five .container .box2 .card:hover{
+    background-color: red;
+    transition: 1s;
+}
+.section-six{
+    width: 100%;
+    height: 400px;
+    background-image: url(https://bootstrapmade.com/demo/templates/Day/assets/img/cta-bg.jpg);
+}
+.section-six .m{
+    width: 80%;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
+.section-six .m p{
+    padding-left: 200px;
+}
+.section-six .m h2{
+    padding-left: 200px;
+}
+.section-six .m .n{
+    padding-left: 200px;
+}
+.section-seven{
+    width: 100%;
+    height: 1200px;
+}
+.section-seven .x{
+    text-align: center;
+    padding-top: 100px;
+}
+.section-seven .x p{
+    padding-bottom: 30px;
+}
+.section-seven .container{
+    padding-left: 200px;
+}
+.section-eight{
+    width: 100%;
+    height: 500px;
+}
+.section-eight .container{
+    display: flex;
+    padding-left: 150px;
+}
+.section-eight .c{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.section-nine{
+    width: 100%;
+    height: 400px;
+}
+.section-nine .z img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;  
+    
+}
+.section-nine .z{
+    padding-left: 200px;
+}
+.section-nine .card{
+    width: 500px;
+    height: 300px;
+}
+footer{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+footer .container{
+    display: flex;
+}
+footer .box1{
+    width: calc(100%/3);
+}
+footer .box2{
+    width: calc(100%/3);
+}
+footer .box3{
+    width: calc(100%/3);
+}
+
